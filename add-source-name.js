@@ -5,10 +5,10 @@ const fs = require('fs');
 let rawmeta = fs.readFileSync('meta.json');
 let meta = JSON.parse(rawmeta);
 
-module.exports = (guid, name, position) => ({
+module.exports = (guid, name, position, url) => ({
     guid,
     snaks: {
-      P854: meta.source.url,
+      P854: url,
       P1476: {
         text: meta.source.title,
         language: meta.source.lang.code,
