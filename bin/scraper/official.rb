@@ -16,7 +16,9 @@ class MemberList
     end
 
     field :position do
-      [role_and_date.first, ministry.sub('Ministry', 'Minister')] - ['Minister']
+      return ministry.sub('Ministry', 'Minister') if role == 'Minister'
+
+      role
     end
 
     field :dob do
@@ -43,6 +45,10 @@ class MemberList
 
     def role_and_date
       function.split(' since ')
+    end
+
+    def role
+      role_and_date.first.tidy
     end
 
     def birth_date
