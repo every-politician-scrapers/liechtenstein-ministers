@@ -1,6 +1,6 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q30882650,Daniel Risch,Daniel Risch,male,1978-03-05T00:00:00Z,11,https://www.regierung.li/members-of-government/daniel-risch/,Q58869896,Prime Minister,Q30882650-dfdf4491-41e7-9065-a8c4-4aa13c2cef1d
-Q30883975,Dominique Hasler,Dominique Hasler,female,1978-10-06T00:00:00Z,11,https://www.regierung.li/members-of-government/dominique-hasler/,Q108215715,"Minister of Foreign Affairs, Education and Sport",Q30883975-705C797C-844C-40C5-BD8E-DE1115446B7F
-Q106301209,Graziella Marok-Wachter,Graziella Marok-Wachter,female,1965-05-04T00:00:00Z,11,https://www.regierung.li/members-of-government/graziella-marok-wachter/,Q108215777,Minister of Infrastructure and Justice,Q106301209-8c4a3522-461a-c608-c313-3a2e61a3076e
-Q106517978,Manuel Frick,Manuel Frick,male,1984-11-16T00:00:00Z,11,https://www.regierung.li/members-of-government/manuel-frick/,Q108215701,Minister of Social Affairs and Culture,Q106517978-ee393808-4ef4-c73a-0498-d2559015813e
-Q65934265,Sabine Monauni,Sabine Monauni,female,1974-04-10T00:00:00Z,11,https://www.regierung.li/members-of-government/sabine-monauni/,Q108216116,Deputy Prime Minister,Q65934265-6DE3C650-7CA8-4F8B-A31D-61C30A956E1C
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
+Q106301209,Graziella Marok-Wachter,Graziella Marok-Wachter,female,1965-05-04,11,https://www.regierung.li/members-of-government/graziella-marok-wachter/,2021-08-23,Q108215777,Minister of Infrastructure and Justice,Q106301209-8c4a3522-461a-c608-c313-3a2e61a3076e
+Q106517978,Manuel Frick,Manuel Frick,male,1984-11-16,11,https://www.regierung.li/members-of-government/manuel-frick/,2021-08-23,Q108215701,Minister of Social Affairs and Culture,Q106517978-ee393808-4ef4-c73a-0498-d2559015813e
+Q30882650,Daniel Risch,Daniel Risch,male,1978-03-05,11,https://www.regierung.li/members-of-government/daniel-risch/,2021-08-23,Q58869896,Prime Minister,Q30882650-dfdf4491-41e7-9065-a8c4-4aa13c2cef1d
+Q30883975,Dominique Hasler,Dominique Hasler,female,1978-10-06,11,https://www.regierung.li/members-of-government/dominique-hasler/,2021-08-23,Q108215715,"Minister of Foreign Affairs, Education and Sport",Q30883975-705C797C-844C-40C5-BD8E-DE1115446B7F
+Q65934265,Sabine Monauni,Sabine Monauni,female,1974-04-10,11,https://www.regierung.li/members-of-government/sabine-monauni/,2021-08-23,Q108216116,Deputy Prime Minister,Q65934265-6DE3C650-7CA8-4F8B-A31D-61C30A956E1C
