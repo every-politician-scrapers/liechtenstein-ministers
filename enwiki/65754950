@@ -1,0 +1,163 @@
+{
+  "title": "Sabine Monauni",
+  "pageID": 65754950,
+  "categories": [
+    "Ambassadors of Liechtenstein to Belgium",
+    "1974 births",
+    "Living people",
+    "21st-century Liechtenstein politicians",
+    "College of Europe alumni",
+    "Female interior ministers",
+    "Progressive Citizens' Party politicians",
+    "University of St. Gallen alumni",
+    "Women ambassadors",
+    "21st-century women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sabine Monauni (born 10 April 1974) was the Ambassador of Liechtenstein to Belgium and the European Union from July 2016 until 2021.",
+              "formatting": {
+                "bold": [
+                  "Sabine Monauni"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In August 2020 she was chosen as leader of the Progressive Citizens' Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Progressive Citizens' Party"
+                }
+              ]
+            },
+            {
+              "text": "The party took a joint-best ten seats in the 2021 general election.",
+              "links": [
+                {
+                  "text": "2021 general election",
+                  "type": "internal",
+                  "page": "2021 Liechtenstein general election"
+                }
+              ]
+            },
+            {
+              "text": "As of March 25, 2021, she is Deputy Prime Minister of Liechtenstein also taking on the portfolio of Minister of Home Affairs.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Liechtenstein"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Liechtenstein politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Sabine Monauni"
+          ],
+          "date": "November 2020",
+          "template": "expand german"
+        }
+      ],
+      "references": [
+        {
+          "title": "Sabine Monauni als FBP-Spitzenkandidatin nominiert",
+          "url": "https://www.volksblatt.li/nachrichten/Liechtenstein/Politik/vb/257085/sabine-monauni-als-fbp-spitzenkandidatin-nominiert",
+          "access-date": "10 February 2021",
+          "work": "Volksblatt",
+          "date": "18 August 2020",
+          "language": "German",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Daragahi",
+          "first1": "Borzou",
+          "title": "Liechtenstein's women only got the vote in 1984. Now the country could get its first female prime minister",
+          "url": "https://www.independent.co.uk/news/world/europe/liechtenstein-woman-leader-vote-b1799192.html",
+          "access-date": "10 February 2021",
+          "work": "The Independent",
+          "date": "9 February 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "New Ambassadors to the Benelux countries",
+          "url": "http://www.diplomatmagazine.eu/2016/09/21/new-ambassadors-to-the-benelux-countries-5/",
+          "accessdate": "4 November 2020",
+          "publisher": "Diplomat Magazine",
+          "date": "September 21, 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "CV",
+          "url": "https://www.regierung.li/media/attachments/Lebenslauf_Sabine_Monauni_636258573928653216.pdf",
+          "website": "Diplomatic mission in Brussels",
+          "accessdate": "4 November 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "New Government Sworn In",
+          "url": "http://liechtensteinusa.org/article/new-government-sworn-in",
+          "website": "Embassy of the Principality of Liechtenstein in Washington, D.C.",
+          "access-date": "29 March 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "2000–2001 Postgraduate studies in European law (LL.M.), College of Europe Bruges, Belgium"
+          },
+          {
+            "text": "1994–1999 Studied law at the University of St. Gallen, Switzerland (lic.iur.HSG) Walter R. Schluep Prize for the best thesis of the academic year 1998/1999"
+          },
+          {
+            "text": "1986–1994 High school Vaduz, Liechtenstein (Matura type B)"
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "liechtenstein-politician-stub"
+        },
+        {
+          "template": "europe-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}
