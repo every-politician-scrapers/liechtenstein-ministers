@@ -325,6 +325,14 @@
             }
           ]
         }
+      ],
+      "templates": [
+        {
+          "text": "University of Applied Sciences of Northwestern Switzerland",
+          "lan1": "de",
+          "text1": "Fachhochschule Nordwestschweiz",
+          "template": "ill"
+        }
       ]
     },
     {

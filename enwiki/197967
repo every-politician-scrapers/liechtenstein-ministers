@@ -81,6 +81,11 @@
           "template": "use dmy dates"
         },
         {
+          "abbr": "2004",
+          "meaning": "15 August 2004",
+          "template": "abbr"
+        },
+        {
           "title": "See list",
           "list": [
             "Hans Brunhart",
