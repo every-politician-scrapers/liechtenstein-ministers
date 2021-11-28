@@ -124,13 +124,15 @@
           "caption": {
             "text": "Hans-Adam in 2013"
           },
+          "alt": {
+            "text": "A photo of Prince Hans-Adam II aged 68"
+          },
           "succession": {
             "text": "Prince of Liechtenstein",
             "links": [
               {
-                "text": "Prince of Liechtenstein",
                 "type": "internal",
-                "page": "Monarchy of Liechtenstein"
+                "page": "Prince of Liechtenstein"
               }
             ]
           },
@@ -160,14 +162,7 @@
             ]
           },
           "regent": {
-            "text": "Alois (2004–present)",
-            "links": [
-              {
-                "text": "Alois",
-                "type": "internal",
-                "page": "Alois, Hereditary Prince of Liechtenstein"
-              }
-            ]
+            "text": "Alois (2004–present)"
           },
           "reg-type1": {
             "text": "Prime Ministers"
