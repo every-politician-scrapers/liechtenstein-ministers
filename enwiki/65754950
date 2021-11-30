@@ -124,40 +124,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "Education",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "2000–2001 Postgraduate studies in European law (LL.M.), College of Europe Bruges, Belgium"
-          },
-          {
-            "text": "1994–1999 Studied law at the University of St. Gallen, Switzerland (lic.iur.HSG) Walter R. Schluep Prize for the best thesis of the academic year 1998/1999"
-          },
-          {
-            "text": "1986–1994 High school Vaduz, Liechtenstein (Matura type B)"
-          }
-        ]
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "liechtenstein-politician-stub"
-        },
-        {
-          "template": "europe-diplomat-stub"
-        }
-      ]
     }
   ]
 }
