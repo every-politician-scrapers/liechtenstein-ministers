@@ -59,27 +59,6 @@
           "description": "Liechtenstein politician",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.landtag.li/praesidenten.aspx?nid=4159&groupnr=4159",
-          "archive-url": "https://web.archive.org/web/20190327123617/https://www.landtag.li/praesidenten.aspx?nid=4159&groupnr=4159",
-          "url-status": "dead",
-          "archive-date": "March 27, 2019",
-          "title": "Mitglieder - Präsidenten",
-          "date": "March 27, 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Albert Frick",
-          "url": "http://www.landtag.li/PersonenDetail.aspx?id=161",
-          "work": "Landtag of Liechtenstein",
-          "access-date": "17 February 2014",
-          "language": "de",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
