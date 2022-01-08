@@ -1,3 +1,3 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q56295818,2nd Hasler Cabinet,2017-03-30,11,,,2021-03-25,11,,,Q2137649,Cabinet of Liechtenstein,,,,,Q107770007,Risch Cabinet,,,,
-,Q107770007,Risch Cabinet,2021-03-25,11,,,,,,,Q2137649,Cabinet of Liechtenstein,,,Q56295818,2nd Hasler Cabinet,,,,,,
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q56295818,2nd Hasler Cabinet,2017-03-30,11,,,2021-03-25,11,,,,,Q107770007,Risch Cabinet,,,,
+,Q107770007,Risch Cabinet,2021-03-25,11,,,,,,,Q56295818,2nd Hasler Cabinet,,,,,,
