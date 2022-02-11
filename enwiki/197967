@@ -23,12 +23,11 @@
         {
           "sentences": [
             {
-              "text": "Hans-Adam II (Johannes Adam Ferdinand Alois Josef Maria Marco d'Aviano Pius; born 14 February 1945) is the reigning prince of Liechtenstein.",
+              "text": "Hans-Adam II (Johannes Adam Ferdinand Alois Josef Maria Marco d'Aviano Pius; born 14 February 1945) is the reigning Prince of Liechtenstein.",
               "links": [
                 {
-                  "text": "prince of Liechtenstein",
                   "type": "internal",
-                  "page": "prince of Liechtenstein"
+                  "page": "Prince of Liechtenstein"
                 }
               ],
               "formatting": {
