@@ -80,6 +80,20 @@
           "template": "use dmy dates"
         },
         {
+          "date": "February 2022",
+          "list": [
+            "Hans-Adam II."
+          ],
+          "template": "expand german"
+        },
+        {
+          "date": "February 2022",
+          "list": [
+            "Giovann Adamm II del Liechtenstein"
+          ],
+          "template": "expand lombard"
+        },
+        {
           "abbr": "2004",
           "meaning": "15 August 2004",
           "template": "abbr"
