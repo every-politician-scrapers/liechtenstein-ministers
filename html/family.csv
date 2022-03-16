@@ -1,11 +1,11 @@
 id,name,relationship,relative,relativename
-Q57454,"Hans-Adam II, Prince of Liechtenstein",child,Q311308,"Alois, Hereditary Prince of Liechtenstein"
-Q57454,"Hans-Adam II, Prince of Liechtenstein",child,Q5428603,Prince Constantin of Liechtenstein
-Q57454,"Hans-Adam II, Prince of Liechtenstein",child,Q5428633,Princess Tatjana of Liechtenstein
-Q57454,"Hans-Adam II, Prince of Liechtenstein",child,Q877624,Prince Maximilian of Liechtenstein
-Q57454,"Hans-Adam II, Prince of Liechtenstein",father,Q165674,Franz Joseph II
-Q57454,"Hans-Adam II, Prince of Liechtenstein",mother,Q255679,Countess Georgina von Wilczek
-Q57454,"Hans-Adam II, Prince of Liechtenstein",sibling,Q453463,Princess Nora of Liechtenstein
-Q57454,"Hans-Adam II, Prince of Liechtenstein",sibling,Q676450,Prince Nikolaus of Liechtenstein
-Q57454,"Hans-Adam II, Prince of Liechtenstein",spouse,Q238233,"Marie, Princess of Lichtenstein"
-Q76598032,Katrin Eggenberger,relative,Q9106974,Josef Biedermann
+Q57454,"Hans-Adam II, Prince of Liechtenstein",child,Q311308,
+Q57454,"Hans-Adam II, Prince of Liechtenstein",child,Q5428603,
+Q57454,"Hans-Adam II, Prince of Liechtenstein",child,Q5428633,
+Q57454,"Hans-Adam II, Prince of Liechtenstein",child,Q877624,
+Q57454,"Hans-Adam II, Prince of Liechtenstein",father,Q165674,
+Q57454,"Hans-Adam II, Prince of Liechtenstein",mother,Q255679,
+Q57454,"Hans-Adam II, Prince of Liechtenstein",sibling,Q453463,
+Q57454,"Hans-Adam II, Prince of Liechtenstein",sibling,Q676450,
+Q57454,"Hans-Adam II, Prince of Liechtenstein",spouse,Q238233,
+Q76598032,Katrin Eggenberger,relative,Q9106974,
