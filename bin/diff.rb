@@ -3,7 +3,7 @@
 
 require 'every_politician_scraper/comparison'
 
-class Comparison < EveryPoliticianScraper::Comparison
+class Comparison < EveryPoliticianScraper::DecoratedComparison
   def wikidata_csv_options
     # TODO: handle precisions
     { converters: [->(val, field) { field.header == :dob ? val.to_s.split('T').first : val }] }
