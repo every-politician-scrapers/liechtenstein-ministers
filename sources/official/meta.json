@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Liechtenstein",
+      "id": "Q347"
+    },
+    "cabinet": {
+      "id": "Q107770007",
+      "start": "2021-03-25",
+      "parent": "Q2137649"
+    },
+    "source": {
+        "url":   "https://www.regierung.li/members-of-government",
+        "title": "Regierung des Fürstentums Liechtenstein",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/liechtenstein-ministers"
+}
